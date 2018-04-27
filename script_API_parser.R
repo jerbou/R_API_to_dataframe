@@ -1,5 +1,36 @@
 # TEST de script pointant vers un api
 
+# ==== 00 Installation des libraire ===
+# https://www.rstudio.com/resources/videos/using-web-apis-from-r/
+# require.library(plyr)
+# require.library(httr)
+# require.library(jsonlite)
+# require.library(magrittr)
+# require.library(dplyr)
+# require.library(data.tree)
+# require.library(tidyr)
+# require.library(dplyr)
+# require.library(XML)
+# require.library(plyr)
+# require.library(xmlparsedata)
+# require.library(data.table)
+# require.library(dtplyr)
+# require.library(WriteXLS)
+# require.library(xlsx)
+# require.library(XML2R)
+# require.library(xml2)
+# # options(encoding = "UTF-8")
+# require.library(readr)
+# require.library(dplyr)
+# require.library(magrittr)
+# require.library(purrr)
+# require.library(stringr)
+# require.library(stringi)
+# require.library(purrr)
+
+# ==== 00 Chargement des librairies ====
+require.library(
+
 # ==== 10 Chargement des librairies ====
 # https://www.rstudio.com/resources/videos/using-web-apis-from-r/
 library(plyr)
