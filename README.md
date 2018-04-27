@@ -6,4 +6,12 @@ R, Rstudio, les packages
 
 # API Choisie
 API data.gouv.fr Annuaire Service public
+La docu API est disponible ici :
+https://www.data.gouv.fr/fr/reuses/annuaire-des-etablissements-publics-de-ladministration/
 
+L'info est là :
+https://www.data.gouv.fr/fr/reuses/annuaire-des-etablissements-publics-de-ladministration/
+
+
+
+# 
