@@ -28,8 +28,6 @@
 # require.library(stringi)
 # require.library(purrr)
 
-# ==== 00 Chargement des librairies ====
-require.library(
 
 # ==== 10 Chargement des librairies ====
 # https://www.rstudio.com/resources/videos/using-web-apis-from-r/
@@ -108,7 +106,6 @@ df_mairie_bfc <- as_data_frame(df_mairie_bfc)
 # ==== 50 export de fichier table pour info CD21 ====
 # on convertit la liste adresse en character
 df_mairie21$features.properties.Adresse.Ligne <- as.character(df_mairie21$features.properties.Adresse.Ligne)
-
 df_mairie_bfc$features.properties.Adresse.Ligne <- as.character(df_mairie_bfc$features.properties.Adresse.Ligne)
 
 # on repere la colonne des plages pour enlever
