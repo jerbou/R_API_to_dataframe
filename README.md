@@ -1,6 +1,6 @@
 # R_API_to_dataframe
 Maquette de script permettant d'obtenir un dataframe (et export tableur) à partir d'une API.
-Interroger l'API, la stocker en mémoire dans un script R et la sortir en tableur
+Interroger l'API, stocker les resutlats d'une requete en mémoire dans un script R et la sortir en tableur
 
 # Envir de dev
 R, Rstudio, les packages
